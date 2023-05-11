@@ -1,5 +1,5 @@
-import app from "./app";
+import app from './app'
 
-const myApp = "ola";
+const myApp = 'ola'
 
-app.listen(3000);
+app.listen(3000)
